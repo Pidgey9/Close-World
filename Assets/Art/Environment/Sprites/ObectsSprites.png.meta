@@ -421,7 +421,11 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      physicsShape: []
+      physicsShape:
+      - - {x: -9, y: -18.5}
+        - {x: -9, y: -10.5}
+        - {x: 9, y: -10.5}
+        - {x: 14, y: -18.5}
       tessellationDetail: 0
       bones: []
       spriteID: 7496adf634a956342a0e2300ac0b4fb2
@@ -442,7 +446,11 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 1}
       outline: []
-      physicsShape: []
+      physicsShape:
+      - - {x: -9.5, y: -18.5}
+        - {x: -9.5, y: -6.5}
+        - {x: 13.5, y: -11.5}
+        - {x: 15.5, y: -22.5}
       tessellationDetail: 0
       bones: []
       spriteID: 4e5d5fe4b3cca8a42a4357bcc46c5704
@@ -841,10 +849,9 @@ TextureImporter:
     secondaryTextures: []
     nameFileIdTable:
       ObectsSprites_81: 1689717622
-      ObectsSprites_43: -540166445
       ObectsSprites_194: -108266071
       ObectsSprites_217: -2139779852
-      ObectsSprites_249: -1755968161
+      ObectsSprites_94: -1132650636
       ObectsSprites_232: -1286164973
       ObectsSprites_32: 1569356442
       ObectsSprites_139: -1295248284
@@ -857,6 +864,7 @@ TextureImporter:
       ObectsSprites_190: -819008365
       ObectsSprites_198: -99288548
       ObectsSprites_254: -557558241
+      ObectsSprites_69: 1146202320
       ObectsSprites_104: 698338652
       ObectsSprites_75: -2032275788
       ObectsSprites_101: 1364820518
@@ -874,12 +882,12 @@ TextureImporter:
       ObectsSprites_119: 1025512850
       ObectsSprites_125: 290651251
       ObectsSprites_236: -1688375882
-      ObectsSprites_144: 1039819124
+      ObectsSprites_29: -1241707035
       ObectsSprites_237: 1380221539
       ObectsSprites_184: -316428547
       ObectsSprites_47: -415299735
       ObectsSprites_251: -859101212
-      ObectsSprites_29: -1241707035
+      ObectsSprites_144: 1039819124
       ObectsSprites_252: 1505586156
       ObectsSprites_51: 254661415
       ObectsSprites_174: -569778624
@@ -1107,9 +1115,9 @@ TextureImporter:
       ObectsSprites_35: -1044612653
       ObectsSprites_203: -671993418
       ObectsSprites_241: 885375986
-      ObectsSprites_69: 1146202320
       ObectsSprites_124: 218519005
-      ObectsSprites_94: -1132650636
+      ObectsSprites_43: -540166445
+      ObectsSprites_249: -1755968161
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
